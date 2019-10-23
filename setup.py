@@ -5,7 +5,7 @@ from setuptools import setup
 REQUIRED_PACKAGES = ['keras==2.2.4',
                      'Keras-Preprocessing==1.0.5',
                      #'keras-utils==1.0.13',
-                     'Pillow==5.3.0',
+                     'Pillow==6.2.0',
                      'h5py==2.9.0',
                      'numpy==1.15.4',
                      'scikit-learn==0.20.2']
