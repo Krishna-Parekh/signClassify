@@ -7,7 +7,7 @@ REQUIRED_PACKAGES = ['keras==2.2.4',
                      #'keras-utils==1.0.13',
                      'Pillow==5.3.0',
                      'h5py==2.9.0',
-                     'numpy==1.15.4',
+                     'numpy==1.22.0',
                      'scikit-learn==0.20.2']
 
 setup(
